@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836665667873",
+    "project_id": "make-musician-flutter",
+    "storage_bucket": "make-musician-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836665667873:android:5f8093aadb29b8171d4e60",
+        "android_client_info": {
+          "package_name": "com.example.make_musician"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836665667873-ub65d3vgcivm6di4p0doeqvvt661qtpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh6ntmMdt-2EMvWEGvIRXBoMstU1gDQ08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836665667873-ub65d3vgcivm6di4p0doeqvvt661qtpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
